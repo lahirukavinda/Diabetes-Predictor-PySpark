@@ -1,0 +1,10 @@
+province_id,province_name,travel_cost
+0,"Western",500
+1,"Southern",1000
+2,"Sabaragamuwa",1200
+3,"Uva",1500
+4,"North Western",1500
+5,"Northern",3000
+6,"North Central",2200
+7,"Eastern",2500
+8,"Central",1800
